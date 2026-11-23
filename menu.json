@@ -1,0 +1,15 @@
+{
+  "outlet_group": "Kopi Corner",
+  "currency": "SGD",
+  "items": [
+    { "name": "Kopi O", "price": 1.80 },
+    { "name": "Kopi C", "price": 2.20 },
+    { "name": "Teh Peng", "price": 2.40 },
+    { "name": "Milo Dinosaur", "price": 3.50 },
+    { "name": "Kaya Toast Set", "price": 5.20 },
+    { "name": "Soft-Boiled Eggs (2)", "price": 2.00 },
+    { "name": "Mee Siam", "price": 5.80 },
+    { "name": "Curry Puff", "price": 1.60 },
+    { "name": "Pandan Chiffon Slice", "price": 3.80 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kopi-loyalty",
+  "version": "1.0.0",
+  "description": "Kopi Corner bill calculator",
+  "main": "bill.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
